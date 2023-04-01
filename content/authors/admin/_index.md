@@ -39,7 +39,6 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 
-# google-scholr后期可以添加为个人博客
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -69,6 +68,3 @@ user_groups:
 > 我的研究方向为人类行为动力学，旨在通过复杂系统和数学模型来挖掘人类行为深层次的规律。目前已有一篇**关于研究移动行为与传染病之间的量化框架的文章以第一作者的身份投稿于Nature Nature Human Behavior（Nature子刊，三审）**，一篇关于**移动行为可预测**的文章投稿于顶刊(CCFA)，以及其他多篇论文。
 
 在入学西北工业大学之前，我就读于浙江工业大学计算机学院物联网工程专业，以绩点第一，专业第一的身份保送至西北工业大学计算机，在校期间以队长的身份带领团队获得过多个大学生比赛。此外，我还在[杭州捷途慧声有限公司](https://www.jet-voice.com/)担任算法工程师。
-
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.

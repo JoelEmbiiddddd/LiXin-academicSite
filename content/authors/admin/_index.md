@@ -27,27 +27,19 @@ interests:
 
 education:
   courses:
-  - course: 计算机学院在读硕士生
+  - course: 计算机学院在读硕士生(GPA：89/100)
     institution: 西北工业大学
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+    year: 2021-2024
+  - course: 物联网工程(GPA：3.72/4.00 专业第一)
+    institution: 浙江工业大学
+    year: 2017-2021
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+
+# google-scholr后期可以添加为个人博客
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -70,6 +62,13 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+欢迎来到[黄立鑫的个人主页](https://sspai.com/post/64639)的主页！
+
+你好，我叫黄立鑫，目前就读于西北工业大学计算机学院研二硕士，由长江学者、杰青获得者於志文教授、新加坡国立大学张盈教授共同指导研究。我的个人兴趣是挖掘深层次的知识和原理，在自己所属的领域努力，尽可能地达到最好，期望能找到**后端开发**的职业。
+
+> 我的研究方向为人类行为动力学，旨在通过复杂系统和数学模型来挖掘人类行为深层次的规律。目前已有一篇**关于研究移动行为与传染病之间的量化框架的文章以第一作者的身份投稿于Nature Nature Human Behavior（Nature子刊，三审）**，一篇关于**移动行为可预测**的文章投稿于顶刊(CCFA)，以及其他多篇论文。
+
+在入学西北工业大学之前，我就读于浙江工业大学计算机学院物联网工程专业，以绩点第一，专业第一的身份保送至西北工业大学计算机，在校期间以队长的身份带领团队获得过多个大学生比赛。此外，我还在[杭州捷途慧声有限公司](https://www.jet-voice.com/)担任算法工程师。
+
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.

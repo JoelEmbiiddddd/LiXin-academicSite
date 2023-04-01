@@ -20,15 +20,15 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-个人研究经历:
-- Artificial Intelligence
-- Computational Linguistics
+interests:
+- 勤奋，刻苦学习
+- 奋斗努力
 - Information Retrieval
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
+  - course: 计算机学院在读硕士生
+    institution: 西北工业大学
     year: 2012
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology

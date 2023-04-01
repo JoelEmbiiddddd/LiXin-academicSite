@@ -1,6 +1,6 @@
 ---
 # Display name
-title: ZeZe
+title: 黄立鑫
 
 # Username (this should match the folder name)
 authors:
@@ -10,17 +10,17 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD Candidate of Computer Science
+role: 计算机研究生在读硕士
 
 # Organizations/Affiliations
 organizations:
-- name: University of Manchester
+- name: 西北工业大学
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
-interests:
+个人研究经历:
 - Artificial Intelligence
 - Computational Linguistics
 - Information Retrieval
